@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelmiKhairullahSetiana_1202154144_Modul6</string>
+    <string name="title_activity_popotoan">Popotoan</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab_text_1">Terbaru</string>
+    <string name="tab_text_2">Foto Saya</string>
+    <string name="tab_text_3">Terlama</string>
+</resources>
